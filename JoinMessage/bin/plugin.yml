@@ -1,0 +1,5 @@
+name: JoinMessage
+author: AlTeX
+version: 1.0
+main: me.altex.joinMessage.Join
+description: A simple join message plugin
